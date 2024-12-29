@@ -49,7 +49,7 @@ const contractABI = [
     ]
 ];
 
-const contractAddress = "0xF27374C91BF602603AC5C9DaCC19BE431E3501cb"; // Адрес контракта
+const contractAddress = "0xb16C5453ca664fc079F980D33CBBf4380c33F417"; // Адрес контракта
 
 const contract = new web3.eth.Contract(contractABI, contractAddress);
 
