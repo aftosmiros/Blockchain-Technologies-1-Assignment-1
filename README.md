@@ -89,4 +89,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## Screenshots
-(Add screenshots or GIFs here showing contract deployment, Ganache, and web3.js interactions.)
+![Metamask connected with Ganache](images/metamask.png)
+![Transaction](images/transaction.png)
+![Transaction is done](images/transaction_is_done.png)
+![Deployed](images/deployed.png)
